@@ -1,6 +1,6 @@
 <font color="#0960DA">
 <h1 align="center">Hi , I'm Sritama Dhara</h1>
-<h3 align="center">A 1st year Student of MAKAUT,WB pursuing B.tech in CSE</h3>
+<h3 align="center">A 3rd year Student of MAKAUT,WB pursuing B.tech in CSE</h3>
 </font>
 <p align="center"><img src="https://readme-typing-svg.herokuapp.com/?font=Mitr&color=0960DA&size=20&center=true&vCenter=true&lines=Hey+viewers+👋;Welcome+to+my+Profile+!+!;I+am+an+interested+learner;Willing+to+explore+new+things;Passionate+about+coding;Have+a+nice+day+ahead+!+!"></p>
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=dharasritama&label=Profile%20views&color=0e75b6&style=flat" alt="dharasritama" /> </p>
@@ -9,7 +9,7 @@
 - 🧑🏼‍💻 I’m currently working on [makaut_buddy](https://github.com/Arindam200/makaut_buddy "makaut buddy")
 - 🌱 I’m currently learning **Web Development**
 - 😄 Pronouns: She/Her
-- 📫 How to reach me: **sritamaadrita@gmail.com**
+- 📫 How to reach me: **dharasritama004@gmail.com**
 - ⚡ Fun fact: An enthusiastic Learner, enrich me with your knowledge and experiences
   <h3 align="left">Languages and Tools:</h3>
 ![C](https://img.shields.io/badge/c-%2300599C.svg?style=for-the-badge&logo=c&logoColor=white)  ![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=openjdk&logoColor=white) ![HTML](https://img.shields.io/badge/html-%23E34F26.svg?style=for-the-badge&logo=html&logoColor=white)
