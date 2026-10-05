@@ -1,13 +1,13 @@
 <font color="#0960DA">
 <h1 align="center">Hi , I'm Sritama Dhara</h1>
-<h3 align="center">A 3rd year Student of MAKAUT,WB pursuing B.tech in CSE</h3>
+<h3 align="center">A 4th year Student of MAKAUT,WB pursuing B.tech in CSE</h3>
 </font>
 <p align="center"><img src="https://readme-typing-svg.herokuapp.com/?font=Mitr&color=0960DA&size=20&center=true&vCenter=true&lines=Hey+viewers+👋;Welcome+to+my+Profile+!+!;I+am+an+interested+learner;Willing+to+explore+new+things;Passionate+about+coding;Have+a+nice+day+ahead+!+!"></p>
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=dharasritama&label=Profile%20views&color=0e75b6&style=flat" alt="dharasritama" /> </p>
 
 
-- 🧑🏼‍💻 I’m currently working on [makaut_buddy](https://github.com/Arindam200/makaut_buddy "makaut buddy")
-- 🌱 I’m currently learning **Web Development**
+- 🧑🏼‍💻 I’m currently working on [SmartHire AI]("https://github.com/springboardmentor441p-coderr/AI-Powered-Mock-Interview-and-Candidate-Assessment-Platform/tree/Sritama_Dhara")
+- 🌱 I’m currently learning **Gen AI and RAG pipelines**
 - 😄 Pronouns: She/Her
 - 📫 How to reach me: **dharasritama004@gmail.com**
 - ⚡ Fun fact: An enthusiastic Learner, enrich me with your knowledge and experiences
